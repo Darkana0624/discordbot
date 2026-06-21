@@ -1,8 +1,8 @@
 {
-  "name": "qbx-ticket-bot",
+  "name": "LSMN-ticket-bot",
   "type": "module",
   "version": "1.0.0",
-  "description": "QBox FiveM серверийн AI ticket систем (Groq, key rotation + cooldown)",
+  "description": "LS Mongolia серверийн AI ticket систем",
   "scripts": {
     "start": "node bot.js"
   },
