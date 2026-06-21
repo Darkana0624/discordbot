@@ -2,7 +2,7 @@
   "name": "qbx-ticket-bot",
   "type": "module",
   "version": "1.0.0",
-  "description": "QBox FiveM серверийн AI ticket систем (Discord bot)",
+  "description": "QBox FiveM серверийн AI ticket систем (Gemini, key rotation + cooldown)",
   "scripts": {
     "start": "node bot.js"
   },
